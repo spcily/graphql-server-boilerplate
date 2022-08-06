@@ -2,5 +2,6 @@
 
 ## Todo
 - [x] hello world
-- [ ] integrate an ORM
+- [x] integrate knex
+- [ ] setup migrations & seeds
 - [ ] implement authentication

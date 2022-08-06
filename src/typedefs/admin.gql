@@ -1,0 +1,7 @@
+extend type Query {
+  admins: Admin
+}
+
+type Admin {
+  date: String
+}

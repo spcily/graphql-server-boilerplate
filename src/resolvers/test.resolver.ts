@@ -2,7 +2,7 @@ export const AppResolvers = [];
 
 export default {
   Query: {
-    test: () => 'test1',
+    test: () => 'hello',
   },
   Mutation: {
     hello: () => 'hello',
